@@ -1,1 +1,1 @@
-web: gunicorn 4_cv_web_app_heroku:app
+web: gunicorn cv_web_app:app
