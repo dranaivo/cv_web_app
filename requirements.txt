@@ -1,0 +1,4 @@
+Flask
+gnunicorn
+numpy
+opencv-contrib-python-headless
